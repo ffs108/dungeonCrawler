@@ -3,10 +3,10 @@ ___________________________________________________________
 Assignment 4 - ISTA 425
 ___________________________________________________________
 
-+	Daniel Shevelev					          
-+	Koan Zhang						          
-+	Lin Shao						          
-+	Francisco Figueroa				          
++	Daniel Shevelev - Map Rep/A*			          
++	Koan Zhang - Movement				          
++	Lin Shao - Animation						          
++	Francisco Figueroa - Map Rep/A*			          
 ___________________________________________________________
 
 
